@@ -98,3 +98,4 @@ target/test-classes/com/example/demo/FarmerBuddyApplicationTests.class
 .settings/org.eclipse.jdt.core.prefs
 .settings/org.eclipse.m2e.core.prefs
 .settings/org.springframework.ide.eclipse.prefs
+db/agriguide_tbl_crop.sql
